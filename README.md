@@ -8,3 +8,4 @@ Total de dosis aplicadas a nivel nacional en valores diarios (Monodosis, 1ra. y 
 
 ### FEBRERO 2022
 <img src="https://github.com/facumruiz/DA-COVID-ARG/blob/main/img/descarga%20(2).png" alt="My cool logo"/>
+
